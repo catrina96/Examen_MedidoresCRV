@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meter Readings</string>
+    <string name="title_list">Registered Measurements</string>
+    <string name="title_form">New Measurement</string>
+    <string name="label_type">Expense Type</string>
+    <string name="label_value">Meter Value</string>
+    <string name="label_date">Date</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_add">Add Measurement</string>
+    <string name="type_water">Water</string>
+    <string name="type_electricity">Electricity</string>
+    <string name="type_gas">Gas</string>
+    <string name="error_empty_fields">Please fill all fields</string>
+</resources>
